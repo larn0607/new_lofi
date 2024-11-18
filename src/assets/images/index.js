@@ -43,7 +43,7 @@ import artRoom from './artroom/artroom.jpg'
 import backseatPreview from './backseat/backseat-thumb.png'
 import backseat from './backseat/drive.png'
 import floatingPreview from './Floating/floating-thumb.png'
-import floating from './Floating/floating.png'
+// import floating from './Floating/floating.png'
 import fujiPreview from './Fuji/fuji-thumb.png'
 import fuji from './Fuji/fuji2.jpg'
 import futurePreview from './future/future-thumb.png'
@@ -62,8 +62,8 @@ import newYorkCentralPark from './new-york/central-park.png'
 import planePreview from './plane/plane-thumb.png'
 import plane from './plane/plane.png'
 import seaSidePreview from './Seaside/seaside-thumb.png'
-import seaSideInside from './Seaside/room.png'
-import seaSideOutside from './Seaside/outside.png'
+// import seaSideInside from './Seaside/room.png'
+// import seaSideOutside from './Seaside/outside.png'
 import seoulPreview from './seoul/seoul-thumb.png'
 import seoulInside from './seoul/seoul-indoor.png'
 import seoulOutside from './seoul/seoul-outdoor.png'
@@ -123,7 +123,7 @@ artRoom,
 backseatPreview,
 backseat,
 floatingPreview,
-floating,
+// floating,
 fujiPreview,
 fuji,
 futurePreview,
@@ -142,8 +142,8 @@ newYorkBedroom,
 planePreview,
 plane,
 seaSidePreview,
-seaSideInside,
-seaSideOutside,
+// seaSideInside,
+// seaSideOutside,
 seoulPreview,
 seoulInside,
 seoulOutside,
